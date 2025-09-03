@@ -37,7 +37,7 @@ Boogi Party는 **부루마블**과 **마리오 파티**에서 아이디어를 �
 
 ## 🖼️ 시연 영상
 [![시연 영상](https://img.youtube.com/vi/o_s6Ucdrao8/0.jpg)](https://youtu.be/o_s6Ucdrao8)  
-👉 클릭하면 유튜브 시연 영상을 볼 수 있습니다.
+👉 클릭하면 시연 영상을 볼 수 있습니다.
 
 ---
 
